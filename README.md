@@ -321,13 +321,13 @@ LIMIT 3;
 
 ---
 
-## 📈 Analysis 
+## 📈 Analysis:
 
 <img width="1223" height="688" alt="Screenshot 2026-06-09 153945" src="https://github.com/user-attachments/assets/19a527da-1195-41e0-a579-9785219b8a3f" />
 
 ---
 
-# 🔮 Future Improvements
+# 🔮 Future Improvements:
 
 <img width="1228" height="694" alt="Screenshot 2026-06-09 153955" src="https://github.com/user-attachments/assets/491519eb-f01c-4456-a3f6-8f803aede1c8" />
 
